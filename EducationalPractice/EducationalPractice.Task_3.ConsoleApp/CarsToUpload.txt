@@ -1,0 +1,5 @@
+Brand=ijseijusf, Model=hdfhdfj, RegistrationNumber=kkrrrdj, LastRepairedAt=12.12.2022 23:12, BoughtAt=11.12.2009 23:12, CarMileage=3533
+Brand=fjusf, Model=hdretretdfj, RegistrationNumber=ffrrdj, LastRepairedAt=07.12.2012 23:12, BoughtAt=10.12.2009 23:12, CarMileage=33534
+Brand=ij, Model=retdfj, RegistrationNumber=aarrrr, LastRepairedAt=12.12.2012 23:12, BoughtAt=11.12.2022 23:12, CarMileage=35435
+Brand=ijfsf, Model=ertghhdfj, RegistrationNumber=kkrrer, LastRepairedAt=12.12.2022 23:12, BoughtAt=11.12.2023 23:12, CarMileage=6744
+Brand=igggsf, Model=hdfger, RegistrationNumber=kerrgj, LastRepairedAt=12.12.2016 23:12, BoughtAt=11.12.2019 23:12, CarMileage=654
