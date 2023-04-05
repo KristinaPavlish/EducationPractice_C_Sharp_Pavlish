@@ -122,6 +122,16 @@ public class CollectionService : ICollectionService
             stringArrayCollections.Add(strCollection);
         }
 
+/*        int j = 0;
+        foreach (var item in myCollection.CollectionList)
+        {
+            j += 1;
+            if (stringArrayCollections[j].Contains(search))
+            {
+                collectionService.AddObject(searchedMyCollection, item);
+            }
+        }
+*/
         for (int i = 0; i < myCollection.CollectionList.Count; i++)
         {
             if (stringArrayCollections[i].Contains(search))
