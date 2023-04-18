@@ -1,0 +1,130 @@
+[18.04.2023 18:41:14] Patient added.
+[18.04.2023 18:53:09] Patient EducationalPractice.Bll.Implementation_Task_4.Models.Patient added by User
+UPLOAD
+[18.04.2023 18:53:24] Patients EducationalPractice.Bll.Implementation_Task_4.Models.Patient uploaded by User
+[18.04.2023 18:53:24] Patients EducationalPractice.Bll.Implementation_Task_4.Models.Patient uploaded by User
+[18.04.2023 18:53:24] Patients EducationalPractice.Bll.Implementation_Task_4.Models.Patient uploaded by User
+[18.04.2023 18:53:24] Patients EducationalPractice.Bll.Implementation_Task_4.Models.Patient uploaded by User
+[18.04.2023 18:53:44] Patient [ EducationalPractice.Bll.Implementation_Task_4.Models.Patient ] deleted by User
+[18.04.2023 18:54:03] Patient [ EducationalPractice.Bll.Implementation_Task_4.Models.Patient ] eddited by User
+[18.04.2023 18:59:00] Patient PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ added by User
+______________________UPLOAD_________________________
+[18.04.2023 18:59:26] Patients [ PatientId=d4c76033-1376-403b-bcd8-64c757ee19d4, Name=dfcsd, Date=12.12.2022, Time=12:12, Duration=13, DoctorName=wddf, Department=sdfdsf
+ ] uploaded by User
+[18.04.2023 18:59:26] Patients [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=wefwef, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ] uploaded by User
+[18.04.2023 18:59:26] Patients [ PatientId=cef9f318-c267-4202-bf1c-67ef6ec91eeb, Name=sjdhv, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=
+ ] uploaded by User
+[18.04.2023 18:59:26] Patients [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ] uploaded by User
+[18.04.2023 18:59:26] Patients [ PatientId=56e74614-4845-4f7a-85e7-79b8e86ef938, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ] uploaded by User
+_______________________________________________
+[18.04.2023 18:59:43] Patient [ PatientId=d4c76033-1376-403b-bcd8-64c757ee19d4, Name=dfcsd, Date=12.12.2022, Time=12:12, Duration=13, DoctorName=wddf, Department=sdfdsf
+ ] saved by User
+[18.04.2023 18:59:43] Patient [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=wefwef, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ] saved by User
+[18.04.2023 18:59:43] Patient [ PatientId=cef9f318-c267-4202-bf1c-67ef6ec91eeb, Name=sjdhv, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=
+ ] saved by User
+[18.04.2023 18:59:43] Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ] saved by User
+[18.04.2023 18:59:43] Patient [ PatientId=56e74614-4845-4f7a-85e7-79b8e86ef938, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ] saved by User
+[18.04.2023 18:59:55] Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ] deleted by User
+[18.04.2023 19:00:27] Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ] eddited by User
+______________________SEARCH_________________________
+[18.04.2023 19:00:36] Patients [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ] searched by User
+_______________________________________________
+[18.04.2023 19:06:13] added by User Patient PatientId=aa7f8162-de11-44db-8968-e353d85a0d9e, Name=jdhsvf, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdsdf, Department=sdfsdf
+
+______________________SAVE_________________________
+[18.04.2023 19:06:25] saved by User Patient [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=wefwef, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ]
+[18.04.2023 19:06:25] saved by User Patient [ PatientId=cef9f318-c267-4202-bf1c-67ef6ec91eeb, Name=sjdhv, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=kwjdnweld, Department=
+ ]
+[18.04.2023 19:06:25] saved by User Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ]
+[18.04.2023 19:06:25] saved by User Patient [ PatientId=56e74614-4845-4f7a-85e7-79b8e86ef938, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ]
+[18.04.2023 19:06:25] saved by User Patient [ PatientId=aa7f8162-de11-44db-8968-e353d85a0d9e, Name=jdhsvf, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdsdf, Department=sdfsdf
+ ]
+_______________________________________________
+______________________SEARCH_________________________
+[18.04.2023 19:07:00] searched by User - word to search wefwef Patient [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=wefwef, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ] 
+_______________________________________________
+______________________ADD_________________________
+[18.04.2023 22:12:36] added by Admin : shdf jkwefjkwef Patient PatientId=60c0a2c4-643a-449e-adac-c3aee99121b5, Name=jhdgjadgj, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdwed, Department=wedwed
+
+_______________________________________________
+______________________VIEW_________________________
+[18.04.2023 22:12:46] viewed by Admin: shdf jkwefjkwef
+ Patient [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=wefwef, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ]  
+ Patient [ PatientId=cef9f318-c267-4202-bf1c-67ef6ec91eeb, Name=sjdhv, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=kwjdnweld, Department=
+ ]  
+ Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ]  
+ Patient [ PatientId=56e74614-4845-4f7a-85e7-79b8e86ef938, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ]  
+ Patient [ PatientId=aa7f8162-de11-44db-8968-e353d85a0d9e, Name=jdhsvf, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdsdf, Department=sdfsdf
+ ]  
+ Patient [ PatientId=60c0a2c4-643a-449e-adac-c3aee99121b5, Name=jhdgjadgj, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdwed, Department=wedwed
+ ]  
+_______________________________________________
+______________________DELETE_________________________
+[18.04.2023 22:12:56] deleted by Admin : shdf jkwefjkwef Patient [ PatientId=60c0a2c4-643a-449e-adac-c3aee99121b5, Name=jhdgjadgj, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdwed, Department=wedwed
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[18.04.2023 22:13:12] eddited by Admin: shdf jkwefjkwef Patient [ PatientId=60c0a2c4-643a-449e-adac-c3aee99121b5, Name=jhdgjadgj, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdwed, Department=wedwed
+ ] (changed Name to sdwd)
+_______________________________________________
+______________________SAVE_________________________
+[18.04.2023 22:13:31] saved by Admin : shdf 
+Patient [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=sdwd, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ]
+Patient [ PatientId=cef9f318-c267-4202-bf1c-67ef6ec91eeb, Name=sjdhv, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=kwjdnweld, Department=
+ ]
+Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ]
+Patient [ PatientId=56e74614-4845-4f7a-85e7-79b8e86ef938, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ]
+Patient [ PatientId=60c0a2c4-643a-449e-adac-c3aee99121b5, Name=jhdgjadgj, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdwed, Department=wedwed
+ ]
+_______________________________________________
+______________________UPLOAD_________________________
+[18.04.2023 22:14:02] uploaded by Admin: shdf jkwefjkwef
+Patient [ PatientId=1ffc2906-b41f-4253-8735-06d57f69ced1, Name=sdwd, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=edwef, Department=wefwef
+ ] 
+Patient [ PatientId=cef9f318-c267-4202-bf1c-67ef6ec91eeb, Name=sjdhv, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=kwjdnweld, Department=
+ ] 
+Patient [ PatientId=411c98ec-00cd-4180-881b-15efe0480470, Name=jwhevfjwehvf, Date=12.12.2022, Time=12:12, Duration=123, DoctorName=eferf, Department=erferf
+ ] 
+Patient [ PatientId=56e74614-4845-4f7a-85e7-79b8e86ef938, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ] 
+Patient [ PatientId=60c0a2c4-643a-449e-adac-c3aee99121b5, Name=jhdgjadgj, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sdwed, Department=wedwed
+ ] 
+Patient [ PatientId=e1a42651-1f24-430f-be99-5d7e7b0b4547, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ] 
+_______________________________________________
+______________________ADD_________________________
+[18.04.2023 22:20:13] added by Admin : shdf jkwefjkwef Patient PatientId=9a4ce965-fc80-4f73-9e79-7c26a0d6e75f, Name=kejb, Date=12.12.2023, Time=12:11, Duration=23, DoctorName=dferfre, Department=erferferf
+
+_______________________________________________
+______________________ADD_________________________
+______________________ADD_________________________
+[18.04.2023 22:20:48] added by Admin : shdf jkwefjkwef Patient PatientId=74aa34d7-94e5-49ec-8c29-919b31b7deb9, Name=djhfvjef, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=dcvv, Department=dfv
+
+_______________________________________________
+______________________SAVE_________________________
+[18.04.2023 22:20:58] saved by Admin : shdf jkwefjkwef 
+Patient [ PatientId=9a4ce965-fc80-4f73-9e79-7c26a0d6e75f, Name=kejb, Date=12.12.2023, Time=12:11, Duration=23, DoctorName=dferfre, Department=erferferf
+ ]
+Patient [ PatientId=74aa34d7-94e5-49ec-8c29-919b31b7deb9, Name=djhfvjef, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=dcvv, Department=dfv
+ ]
+_______________________________________________

@@ -100,6 +100,46 @@ public class CollectionService : ICollectionService
         }
 
     }
+    
+    public object SearchById<T>(MyCollection<T> myCollection, string id)
+    {
+
+        Type objectType = typeof(T);
+        FieldInfo[] fields = objectType.GetFields(BindingFlags.Public | BindingFlags.NonPublic | BindingFlags.Instance);
+        T newClass = Activator.CreateInstance<T>();
+
+        foreach (var field in fields)
+        {
+            if (field.FieldType == typeof(Guid))
+            {
+                var someClass = myCollection.CollectionList.FirstOrDefault(p => field.GetValue(p).ToString() == id);
+                if (someClass == null)
+                {
+                    throw new ArgumentException("Id " + id + " does not exist");
+                }
+
+                var t = typeof(T);
+                PropertyInfo[] props = t.GetProperties();
+                foreach (var obje in myCollection.CollectionList)
+                {
+                    if (field.FieldType == typeof(Guid))
+                    {
+                        if (field.GetValue(obje).ToString() == id)
+                        {
+                            newClass = obje;
+                        }
+                    }
+                }
+            }
+
+        }
+
+        if (newClass == null)
+        {
+            Console.WriteLine("No such patient");
+        }
+        return newClass;
+    }
 
     public MyCollection<T> Search<T>(MyCollection<T> myCollection, string search)
     {

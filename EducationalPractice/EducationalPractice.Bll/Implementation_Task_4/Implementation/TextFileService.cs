@@ -40,9 +40,13 @@ public class TextFileService : IFileService
             Type t = item.GetType();
             PropertyInfo[] props = t.GetProperties();
 
-            for (int i = 0; i < props.Length - 1; i++)
+            for (int i = 0; i < props.Length; i++)
             {
-                toString += props[i].ToString()!.Split(" ")[1] + "=" + props[i].GetValue(myCollection.CollectionList[0]) + ", ";
+                if (props[i].PropertyType == typeof(Guid))
+                {
+                    continue;
+                }
+                toString += props[i].ToString()!.Split(" ")[1] + "=" + props[i].GetValue(item) + ", ";
             }
 
             var strObject = toString.Remove(toString.Length - 2) + "\n";

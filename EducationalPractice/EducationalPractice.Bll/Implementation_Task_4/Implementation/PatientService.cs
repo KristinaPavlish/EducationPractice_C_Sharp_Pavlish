@@ -15,13 +15,15 @@ public class PatientService : IPatientService
         Console.WriteLine("Enter patient: ");
         string patientString = "";
         string value;
+        Guid guid = Guid.NewGuid();
         Type type = typeof(Patient);
         IList<PropertyInfo> props = new List<PropertyInfo>(type.GetProperties());
         for (int i = 0; i < props.Count; i++)
         {
             if (props[i].PropertyType == typeof(Guid))
             {
-                i++;
+                guid = Guid.NewGuid();
+                continue;
             }
             patientString += props[i].Name + "=";
             Console.Write(props[i].Name + "=");
@@ -29,12 +31,10 @@ public class PatientService : IPatientService
             patientString += value;
             patientString += ", ";
         }
-
         (isValid, patient) = Helper.Helper.Deserialize<Patient>(patientString.Remove(patientString.Length - 2));
-
         if (isValid)
         {
-            patient.PatientId = Guid.NewGuid();
+            patient.PatientId = guid;
             return patient;
         }
         return null;

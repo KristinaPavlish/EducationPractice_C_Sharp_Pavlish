@@ -2,6 +2,14 @@
 using EducationalPractice.Bll.Implementation_Task_4.Implementation;
 using EducationalPractice.Bll.Implementation_Task_4.Models;
 
+Proxy proxy = new Proxy();
+
+User user = null;
+Auth auth = new Auth();
+
+auth.LoadUsersFromFile();
+auth.LoadAdminsFromFile();
+UserF();
 static void RunWithRetry(Action action)
 {
     bool success = false;
@@ -14,149 +22,95 @@ static void RunWithRetry(Action action)
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Error occurred: " + ex.Message);
-            Console.WriteLine("Please try again.");
+            Console.WriteLine("Помилка: " + ex.Message);
+            Console.WriteLine("Будь ласка спробуйте ще раз.");
         }
     }
 }
 
-PatientService patientService = new PatientService();
-CollectionService collectionService = new CollectionService();
-Patient patient = new Patient();
-TextFileService textFileService = new TextFileService();
-MyCollection<Patient> patientCollection = new MyCollection<Patient>();
-void AddPatient()
+
+void Register()
 {
-    patient = patientService.ReadPatient();
-    if (patient != null)
-    { 
-        collectionService.AddObject(patientCollection, patient);
-    }
-    else
-    {
-        Console.WriteLine("Invalid patient");
-    }
+    Console.WriteLine("Введiть iм'я:");
+    string firstName = Console.ReadLine();
+    Console.WriteLine("Введiть прiзвище:");
+    string lastName = Console.ReadLine();
+    Console.WriteLine("Введiть пароль:");
+    string password = Console.ReadLine();
+    Console.WriteLine("Введiть електронну пошту:");
+    string email = Console.ReadLine();
+    proxy.user = auth.RegisterUser(firstName, lastName, password, email, user);
 }
 
-void DeletePatient()
+void Login()
 {
-    if (patientCollection.CollectionList == null)
-    {
-        Console.WriteLine("Patient list is empty");
-        return;
-    }
-    Console.Write("Enter id to delete: ");
-    string idToDelete = Console.ReadLine();
-    collectionService.DeleteObjectById(patientCollection, idToDelete);
-
-    foreach (var pat in patientCollection.CollectionList)
-    {
-        Console.WriteLine(Helper.ToString(pat));
-    }
+    Console.WriteLine("Введiть електронну пошту:");
+    string email = Console.ReadLine();
+    Console.WriteLine("Введiть пароль:");
+    string password = Console.ReadLine();
+    
+    proxy.user = auth.Login(email, password, user);
 }
 
-void EditPatient()
+void LoginAdmin()
 {
-    if (patientCollection.CollectionList == null)
-    {
-        Console.WriteLine("Patient list is empty");
-        return;
-    }
-    Console.Write("Enter id to edit: ");
-    string idToEdit = Console.ReadLine();
-    Console.Write("Enter property: ");
-    string property = Console.ReadLine();
-    Console.Write("Enter value: ");
-    string value = Console.ReadLine();
-    collectionService.EditObjectById(patientCollection, idToEdit, property, value);
-    foreach (var pat in patientCollection.CollectionList)
-    {
-        Console.WriteLine(Helper.ToString(pat));
-    }
+    Console.WriteLine("Введiть електронну пошту:");
+    string email = Console.ReadLine();
+    Console.WriteLine("Введiть пароль:");
+    string password = Console.ReadLine();
+    
+    proxy.user = auth.LoginAdmin(email, password, user);
 }
 
-void SavePatientsIntoFile()
+void Logout()
 {
-    string fileName = textFileService.GetValidFileName();
-    if (patientCollection.CollectionList == null)
-    {
-        Console.WriteLine("Patient list is empty");
-        return;
-    }
-    textFileService.Save(patientCollection,fileName);
+    proxy.user = auth.Logout(user);
 }
 
-MyCollection<Patient> UploadPatientsFromFile()
+void UserF()
 {
-     string fileName = textFileService.GetValidFileName();
-     MyCollection<Patient> uploadedPatientList = new MyCollection<Patient>();
-     uploadedPatientList = textFileService.Upload<Patient>(fileName);
-     if (uploadedPatientList.CollectionList.Count != 0)
-     {
-         foreach (var patient in uploadedPatientList.CollectionList)
-         {
-             collectionService.AddObject(patientCollection, patient);
-         }
-     }
-     var serializedPatientList = Helper.Serialize(uploadedPatientList);
-     Console.WriteLine(serializedPatientList);
-     return patientCollection;
-}
-
-
-
-void SortPatient()
-{
-    if (patientCollection.CollectionList == null)
+    bool exit = false;
+    while (!exit)
     {
-        Console.WriteLine("Patient list is empty");
-        return;
-    }
-    MyCollection<Patient> sortedPatientList = new MyCollection<Patient> ();
-    Console.WriteLine("Enter property to sort");
-    string sortBy = Console.ReadLine();
-    sortedPatientList =  collectionService.SortBy(patientCollection, sortBy);
-    foreach (var pati in sortedPatientList.CollectionList)
-    {
-        Console.WriteLine(Helper.ToString(pati));
-    }
-}
-
-void SearchPatients()
-{
-    if (patientCollection.CollectionList == null)
-    {
-        Console.WriteLine("Patient list is empty");
-        return;
-    }
-    MyCollection<Patient> newPatientList = new MyCollection<Patient>();
-    Console.WriteLine("Enter value to search");
-    string search = Console.ReadLine();
-    newPatientList =  collectionService.Search(patientCollection, search);
-    if (newPatientList.CollectionList == null)
-    {
-        Console.WriteLine("Patient searched list is empty");
-        return;
-    }
-    foreach (var pati in newPatientList.CollectionList)
-    {
-        Console.WriteLine(Helper.ToString(pati));
-    }
-}
-
-void ViewPatientList()
-{
-    if (patientCollection.CollectionList == null)
-    {
-        Console.WriteLine("Patient list is empty");
-        return;
+        Console.WriteLine("Оберiть дiю:");
+        Console.WriteLine("1. Реєстрацiя");
+        Console.WriteLine("2. Вхiд як користувач");
+        Console.WriteLine("3. Вхiд як адмiн");
+        Console.WriteLine("4. Вихiд");
+        string choice = Console.ReadLine();
+        switch (choice)
+        {
+            case "1":
+                RunWithRetry(() => Register());
+                Console.WriteLine("Реєстрацiя користувача пройшла успiшно.");
+                RunWithRetry(() => Main());
+                break;
+            case "2":
+                RunWithRetry(() => Login());
+                Console.WriteLine("Вхiд користувача виконано успiшно");
+                RunWithRetry(() => Main());
+                break;
+            case "3":
+                RunWithRetry(() => LoginAdmin());
+                Console.WriteLine("Вхiд адмiну виконано успiшно.");
+                RunWithRetry(() => Main());
+                break;
+            case "4":
+                Logout();
+                Console.WriteLine("Вихiд виконано успiшно.");
+                UserF();
+                break;
+            case "5":
+                Console.WriteLine("Виходимо");
+                exit = true;
+                break;
+            default:
+                Console.WriteLine("Неправильний вибір. Спробуйте ще раз.");
+                break;
+        }
     }
 
-    Console.WriteLine($"{patientCollection.CollectionList.Count} patients");
-    foreach (var pati in patientCollection.CollectionList)
-    {
-        Console.WriteLine(Helper.ToString(pati));
-    }
+   
 }
 
 void Main()
@@ -171,7 +125,8 @@ void Main()
         Console.WriteLine("6. Посортувати пацієнтів");
         Console.WriteLine("7. Пошук");
         Console.WriteLine("8. Переглянути список пацієнтів");
-        Console.WriteLine("9. Вийти з програми");
+        Console.WriteLine("9. Переглянути пацієнта по id");
+        Console.WriteLine("10. Вийти з програми");
 
         Console.Write("Ваш вибір: ");
         string choice = Console.ReadLine();
@@ -180,38 +135,41 @@ void Main()
         {
             case "1":
                 // Додати пацієнта
-                RunWithRetry(() => AddPatient());
+                proxy.AddPatient();
                 break;
             case "2":
                 // Видалити пацієнта
-                RunWithRetry(() => DeletePatient());
+                proxy.DeletePatient();
                 break;
             case "3":
                 // Редагувати пацієнта
-                RunWithRetry(() => EditPatient());
+                proxy.EditPatient();
                 break;
             case "4":
                 // Записати пацієнтів в файл
-                SavePatientsIntoFile();
+                proxy.SavePatientsIntoFile();
                 break;
             case "5":
                 // Записати пацієнтів в файл
-                patientCollection = UploadPatientsFromFile();
+                proxy.UploadPatients();
                 break;
             case "6":
                 // Посортувати пацієнтів
-                RunWithRetry(() =>  SortPatient());
-
+                proxy.SortPatient();
                 break;
             case "7":
                 // Пошук
-                SearchPatients();
+                proxy.SearchPatients();
                 break;
             case "8":
                 // Переглянути список пацієнтів
-                ViewPatientList();
+                proxy.ViewPatientList();
                 break;
             case "9":
+                // Переглянути пацієнтa
+                proxy.ViewPatient();
+                break;
+            case "10":
                 // Вийти з програми
                 Console.WriteLine("До побачення!");
                 return;
@@ -223,3 +181,4 @@ void Main()
         Console.WriteLine();
     }
 }
+

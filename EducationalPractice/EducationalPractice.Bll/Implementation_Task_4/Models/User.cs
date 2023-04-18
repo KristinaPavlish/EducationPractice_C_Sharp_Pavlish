@@ -1,56 +1,63 @@
 using System;
-using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
-// User class with first name, last name, email, role, and password fields
+public enum UserRole
+{
+    Admin,
+    User
+}
+
 public class User
 {
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    public string Email { get; set; }
-    public string Role { get; set; }
-    public string Password { get; set; }
+    private string firstName;
+    private string lastName;
+    private string password;
+    private string email;
+    private UserRole role;
+
+    public string FirstName
+    {
+        get { return firstName; }
+        set { firstName = value; }
+    }
+
+    public string LastName
+    {
+        get { return lastName; }
+        set { lastName = value; }
+    }
+
+    public string Password
+    {
+        get { return password; }
+        set
+        {
+            // Валідація пароля
+            if (value.Length < 8 || !Regex.IsMatch(value, @"^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{8,}$"))
+            {
+                throw new ArgumentException("Пароль повинен мати щонайменше 8 символів, включаючи великі та малі літери та цифри");
+            }
+            password = value;
+        }
+    }
+
+    public string Email
+    {
+        get { return email; }
+        set
+        {
+            // Валідація електронної пошти
+            if (!Regex.IsMatch(value, @"^[^@\s]+@[^@\s]+\.[^@\s]+$"))
+            {
+                throw new ArgumentException("Неправильний формат електронної пошти");
+            }
+            email = value;
+        }
+    }
+
+    public UserRole Role
+    {
+        get { return role; }
+        set { role = value; }
+    }
 }
-
-// Authentication class
-public class Auth
-{
-    private static List<User> _users = new List<User>()
-    {
-        new User { FirstName = "John", LastName = "Doe", Email = "johndoe@example.com", Role = "admin", Password = "admin123" },
-        new User { FirstName = "Jane", LastName = "Doe", Email = "janedoe@example.com", Role = "customer", Password = "customer123" }
-    };
-
-    public static User Login(string email, string password)
-    {
-        User user = _users.Find(u => u.Email == email && u.Password == password);
-        if (user != null)
-        {
-            Console.WriteLine($"Logged in as {user.FirstName} {user.LastName} ({user.Role})");
-        }
-        else
-        {
-            Console.WriteLine("Invalid email or password");
-        }
-        return user;
-    }
-
-    public static void Register(string firstName, string lastName, string email, string role, string password)
-    {
-        User user = new User { FirstName = firstName, LastName = lastName, Email = email, Role = role, Password = password };
-        _users.Add(user);
-        Console.WriteLine($"Registered as {user.FirstName} {user.LastName} ({user.Role})");
-    }
-
-    public static void Logout(User user)
-    {
-        if (user != null)
-        {
-            Console.WriteLine($"Logged out {user.FirstName} {user.LastName} ({user.Role})");
-        }
-        else
-        {
-            Console.WriteLine("No user logged in");
-        }
-    }
-}
-
