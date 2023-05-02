@@ -1,3 +1,6 @@
 Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
 Name=ILLIA, Date=12.12.а2021, Time=2sdew2:19, Duration=1, DoctorName=fred, Department=narkology
 Name=ILLI4A, Date=12.12.2021, Time=22:19, Duration=6, DoctorName=fred, Department=narkology
+Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd
+Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd
+Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy

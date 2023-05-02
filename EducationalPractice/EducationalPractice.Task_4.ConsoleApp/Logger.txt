@@ -128,3 +128,120 @@ Patient [ PatientId=9a4ce965-fc80-4f73-9e79-7c26a0d6e75f, Name=kejb, Date=12.12.
 Patient [ PatientId=74aa34d7-94e5-49ec-8c29-919b31b7deb9, Name=djhfvjef, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=dcvv, Department=dfv
  ]
 _______________________________________________
+______________________UPLOAD_________________________
+[19.04.2023 10:29:06] uploaded by Admin: Emily Smith
+Patient [ Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology, PatientId=f8b85938-5981-40e2-af90-2fb01f7f44cd
+ ] 
+Patient [ Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd, PatientId=49e8d322-ee62-42cc-9041-60c138272361
+ ] 
+Patient [ Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd, PatientId=042edc2b-71fd-4141-b26b-d51aeeb52cf8
+ ] 
+Patient [ Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy, PatientId=f6462de5-d395-4b6a-bfb1-0d6c34770650
+ ] 
+_______________________________________________
+______________________ADD_________________________
+[19.04.2023 10:29:56] added by Admin : Emily Smith Patient Name=George, Date=11.04.2011, Time=13:14, Duration=34, DoctorName=Taras, Department=fjs, PatientId=44e88cc9-fd61-4f18-8075-7eb08465b743
+
+_______________________________________________
+______________________VIEW_________________________
+[19.04.2023 10:30:06] viewed by Admin: Emily Smith
+ Patient [ PatientId=f8b85938-5981-40e2-af90-2fb01f7f44cd, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ]  
+ Patient [ PatientId=49e8d322-ee62-42cc-9041-60c138272361, Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd
+ ]  
+ Patient [ PatientId=042edc2b-71fd-4141-b26b-d51aeeb52cf8, Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd
+ ]  
+ Patient [ PatientId=f6462de5-d395-4b6a-bfb1-0d6c34770650, Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy
+ ]  
+ Patient [ PatientId=44e88cc9-fd61-4f18-8075-7eb08465b743, Name=George, Date=11.04.2011, Time=13:14, Duration=34, DoctorName=Taras, Department=fjs
+ ]  
+_______________________________________________
+______________________EDIT_________________________
+[19.04.2023 10:31:14] eddited by Admin: Emily Smith Patient [ PatientId=44e88cc9-fd61-4f18-8075-7eb08465b743, Name=George, Date=11.04.2011, Time=13:14, Duration=34, DoctorName=Taras, Department=fjs
+ ] (changed DoctorName to Illia)
+_______________________________________________
+______________________SEARCH_________________________
+[19.04.2023 10:32:58] searched by User: Holly Black  (word to search 12) 
+ Patient [ PatientId=f8b85938-5981-40e2-af90-2fb01f7f44cd, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ] 
+ Patient [ PatientId=49e8d322-ee62-42cc-9041-60c138272361, Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=Illia, Department=Jsshd
+ ] 
+ Patient [ PatientId=042edc2b-71fd-4141-b26b-d51aeeb52cf8, Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd
+ ] 
+ Patient [ PatientId=f6462de5-d395-4b6a-bfb1-0d6c34770650, Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy
+ ] 
+_______________________________________________
+______________________SAVE_________________________
+[19.04.2023 10:33:22] sorted by User: Holly Black
+ Patient: [ PatientId=49e8d322-ee62-42cc-9041-60c138272361, Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=Illia, Department=Jsshd
+ ] 
+ Patient: [ PatientId=44e88cc9-fd61-4f18-8075-7eb08465b743, Name=George, Date=11.04.2011, Time=13:14, Duration=34, DoctorName=Taras, Department=fjs
+ ] 
+ Patient: [ PatientId=f6462de5-d395-4b6a-bfb1-0d6c34770650, Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy
+ ] 
+ Patient: [ PatientId=042edc2b-71fd-4141-b26b-d51aeeb52cf8, Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd
+ ] 
+ Patient: [ PatientId=f8b85938-5981-40e2-af90-2fb01f7f44cd, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ] 
+_______________________________________________
+[19.04.2023 10:33:55] Patient [ PatientId=f6462de5-d395-4b6a-bfb1-0d6c34770650, Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy
+ ] viewed by User
+______________________VIEW_________________________
+[19.04.2023 10:34:03] viewed by User: Holly Black
+ Patient [ PatientId=f8b85938-5981-40e2-af90-2fb01f7f44cd, Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology
+ ]  
+ Patient [ PatientId=49e8d322-ee62-42cc-9041-60c138272361, Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=Illia, Department=Jsshd
+ ]  
+ Patient [ PatientId=042edc2b-71fd-4141-b26b-d51aeeb52cf8, Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd
+ ]  
+ Patient [ PatientId=f6462de5-d395-4b6a-bfb1-0d6c34770650, Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy
+ ]  
+ Patient [ PatientId=44e88cc9-fd61-4f18-8075-7eb08465b743, Name=George, Date=11.04.2011, Time=13:14, Duration=34, DoctorName=Taras, Department=fjs
+ ]  
+_______________________________________________
+______________________UPLOAD_________________________
+[19.04.2023 10:44:26] uploaded by Admin: Emily Smith
+Patient [ Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology, PatientId=b9de0641-7010-4b4f-822d-d68eff574cf2
+ ] 
+Patient [ Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd, PatientId=fa79d6de-9254-459d-b989-6a132716e739
+ ] 
+Patient [ Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd, PatientId=27a95cc5-e3f0-463e-9cf1-06fec5041450
+ ] 
+Patient [ Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy, PatientId=148e2d75-8a28-442a-b2a4-8ee9d88c0152
+ ] 
+_______________________________________________
+______________________SAVE_________________________
+[19.04.2023 10:45:11] sorted by User: Kate Black
+ Patient: [ Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy, PatientId=148e2d75-8a28-442a-b2a4-8ee9d88c0152
+ ] 
+ Patient: [ Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology, PatientId=b9de0641-7010-4b4f-822d-d68eff574cf2
+ ] 
+ Patient: [ Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd, PatientId=27a95cc5-e3f0-463e-9cf1-06fec5041450
+ ] 
+ Patient: [ Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd, PatientId=fa79d6de-9254-459d-b989-6a132716e739
+ ] 
+_______________________________________________
+______________________SEARCH_________________________
+[19.04.2023 10:45:26] searched by User: Kate Black  (word to search 13) 
+ Patient [ Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd, PatientId=fa79d6de-9254-459d-b989-6a132716e739
+ ] 
+ Patient [ Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd, PatientId=27a95cc5-e3f0-463e-9cf1-06fec5041450
+ ] 
+_______________________________________________
+______________________ADD_________________________
+[19.04.2023 10:46:38] added by Admin : Emily Smith Patient Name=George, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=Fred, Department=gds, PatientId=d12ef02b-3b67-42f9-8cb5-8c94254f2bd9
+
+_______________________________________________
+______________________VIEW_________________________
+[19.04.2023 10:46:43] viewed by Admin: Emily Smith
+ Patient [ Name=ILLIA, Date=12.12.2021, Time=22:19, Duration=3, DoctorName=fred, Department=narkology, PatientId=b9de0641-7010-4b4f-822d-d68eff574cf2
+ ]  
+ Patient [ Name=Viktoria, Date=11.07.2019, Time=12:19, Duration=43, DoctorName=George, Department=Jsshd, PatientId=fa79d6de-9254-459d-b989-6a132716e739
+ ]  
+ Patient [ Name=Nik, Date=12.12.2021, Time=21:39, Duration=13, DoctorName=Jon, Department=kjjkd, PatientId=27a95cc5-e3f0-463e-9cf1-06fec5041450
+ ]  
+ Patient [ Name=Andriy, Date=12.12.2021, Time=14:21, Duration=29, DoctorName=Kate, Department=najksogy, PatientId=148e2d75-8a28-442a-b2a4-8ee9d88c0152
+ ]  
+ Patient [ Name=George, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=Fred, Department=gds, PatientId=d12ef02b-3b67-42f9-8cb5-8c94254f2bd9
+ ]  
+_______________________________________________
