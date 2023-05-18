@@ -1,0 +1,496 @@
+______________________ADD_________________________
+______________________ADD_________________________
+______________________ADD_________________________
+______________________ADD_________________________
+______________________ADD_________________________
+[09.05.2023 23:51:13] added by Admin : Max Watson Patient PatientId=23634710-0984-492e-95bb-f2096a28e742, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft
+
+_______________________________________________
+______________________VIEW_________________________
+[09.05.2023 23:51:19] viewed by Admin: Max Watson
+ Patient [ PatientId=23634710-0984-492e-95bb-f2096a28e742, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft
+ ]  
+_______________________________________________
+______________________SAVE_________________________
+[09.05.2023 23:51:55] saved by Admin : Max Watson 
+Patient [ PatientId=23634710-0984-492e-95bb-f2096a28e742, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft
+ ]
+_______________________________________________
+______________________UPLOAD_________________________
+[09.05.2023 23:52:07] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft, PatientId=23634710-0984-492e-95bb-f2096a28e742
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[09.05.2023 23:53:38] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=23634710-0984-492e-95bb-f2096a28e742, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d69784f1-8abc-4b3e-8132-a0e86820223c, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=73be7c79-e0d6-4657-8520-e4401d415a79, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=bc9ba5ca-7fd8-4df1-89d3-2e5b4b4350a5, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=0b296c73-9258-4be3-bf5d-fbf5e4daf6a8, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=b9512f55-11a2-4303-989d-cbdb742e9e8a, State=Draft
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[10.05.2023 0:03:35] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft, PatientId=8f6c9a82-cbd9-43f2-bf6b-57c1ca82d66d
+ ] 
+_______________________________________________
+______________________VIEW_________________________
+[10.05.2023 0:03:43] viewed by Admin: Max Watson
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft, PatientId=8f6c9a82-cbd9-43f2-bf6b-57c1ca82d66d
+ ]  
+_______________________________________________
+______________________ADD_________________________
+[10.05.2023 0:04:00] added by Admin : Max Watson Patient Name=jhdjhd, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sd, Department=sd, State=Draft, PatientId=e340082d-3d7e-45b9-a5ac-e7db70b45f56
+
+_______________________________________________
+______________________SAVE_________________________
+[10.05.2023 0:04:58] sorted by Admin: Max Watson
+ Patient: [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft, PatientId=8f6c9a82-cbd9-43f2-bf6b-57c1ca82d66d
+ ] 
+ Patient: [ Name=jhdjhd, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sd, Department=sd, State=Draft, PatientId=e340082d-3d7e-45b9-a5ac-e7db70b45f56
+ ] 
+_______________________________________________
+______________________SEARCH_________________________
+[10.05.2023 0:05:06] searched by Admin: Max Watson  (word to search Draft) 
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Draft, PatientId=8f6c9a82-cbd9-43f2-bf6b-57c1ca82d66d
+ ] 
+ Patient [ Name=jhdjhd, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=sd, Department=sd, State=Draft, PatientId=e340082d-3d7e-45b9-a5ac-e7db70b45f56
+ ] 
+_______________________________________________
+______________________ADD_________________________
+[11.05.2023 18:45:31] added by Admin : Max Watson Patient PatientId=ce226239-1635-4902-96e8-af2b4adb35f2, Name=ef, Date=12.12.2022, Time=12:12, Duration=12, DoctorName=efdv, Department=dfv, State=Draft
+
+_______________________________________________
+______________________ADD_________________________
+[11.05.2023 18:45:44] added by Admin : Max Watson Patient PatientId=9ea2be34-2358-4bd9-813f-c0dde7d462f8, Name=rferf, Date=12.12.2022, Time=12:12, Duration=23, DoctorName=dfc, Department=fv, State=Draft
+
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:46:37] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=679d881e-62c2-4a10-95f9-7d52ad8e4a10, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=6c1cff05-3105-47fd-8d24-78509460b4a7, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=816abc60-68a0-47ea-a512-585100529f10, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=ccccb816-9d31-4a01-b19e-8ed3d65d6b10, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=09d8ef6f-9177-4fb4-be35-06304d4a5605, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:48:00] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=5aee9a5e-4c85-4cf9-88fc-72193ead1473, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=944f92a8-dd54-4dbc-96ef-e82006352b81, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=29edb287-f459-497d-9b15-2e227db42be8, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=61960338-ce0c-4031-a94e-e6561dee9b86, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=deaa3ff5-5368-41cd-9918-a3440924708e, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[11.05.2023 18:48:24] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to djkkjdfjkdfjdjjdjkdfjkfdjdjkjdfkjkdfjkdjk)
+_______________________________________________
+______________________VIEW_________________________
+[11.05.2023 18:48:36] viewed by Admin: Max Watson
+ Patient [ Name=djkkjdfjkdfjdjjdjkdfjkfdjdjkjdfkjkdfjkdjk, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=5aee9a5e-4c85-4cf9-88fc-72193ead1473, State=Published
+ ]  
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=944f92a8-dd54-4dbc-96ef-e82006352b81, State=Published
+ ]  
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=29edb287-f459-497d-9b15-2e227db42be8, State=Published
+ ]  
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=61960338-ce0c-4031-a94e-e6561dee9b86, State=Published
+ ]  
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=deaa3ff5-5368-41cd-9918-a3440924708e, State=Published
+ ]  
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:52:24] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=486a1493-209f-482a-aea6-fae99fb9b006, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=9909ba8e-d8ae-47fc-894e-c36334468163, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=c959acfe-8d14-428a-9980-72b22b350d34, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=2975fdec-d33b-4c4c-b75c-00451854cca6, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=38013054-bea9-4e48-9784-06f60c545a91, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:53:14] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=11868d21-796c-4924-b14c-f56eaee6f591, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=65ef4ba4-c59b-49e2-a151-7cc9fefcab72, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f1267a13-d70f-4808-a205-4e608b5d44dd, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=62845dc8-783d-41c4-aee2-877359032d53, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=c0271e52-a6e9-40d7-8edc-fb4a29b3665e, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[11.05.2023 18:53:36] eddited by Admin: Max Watson Patient [ Name=, PatientId=00000000-0000-0000-0000-000000000000, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, State=Published
+ ] (changed Name to jhsdjkfjlefjke)
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:54:31] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=5b3513ac-2415-4cda-b5e9-cbd5dab15e2b, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e85e9667-ddeb-43bf-8bf9-310a301d8b3b, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=81b93d18-ee33-4bd6-86a9-84655a9b1203, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=3089de04-b8e9-4655-8071-6d22fe77fae9, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=46b81c13-a652-4980-a760-1450a6f66fd5, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[11.05.2023 18:54:43] eddited by Admin: Max Watson Patient [ Name=, PatientId=00000000-0000-0000-0000-000000000000, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, State=Published
+ ] (changed Name to wkehfbwkejf)
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:57:18] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=c1a23f61-44a1-41e1-b411-ced36541b9ee, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=75872ebf-700f-4f1c-9d08-b36d1b738cb2, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=619222ae-e71c-4f34-85ff-a880569cebc5, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=80fd3126-cf2c-4e92-85ae-460e40ba8f69, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=0fa161cd-f144-499e-a514-9cd1bd232bd6, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 18:57:49] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=b12597c2-604f-4882-9754-a3490577bb26, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e8b5800a-a1e4-4bc1-b800-a36e00a61a1f, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=a8c4b64b-fd5e-4ab4-91ce-707e00547572, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=205d0000-5fe1-4b9a-99a1-3070147c9b13, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=1d06ee05-defb-460f-a217-425752e09946, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[11.05.2023 18:58:30] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to kjdbckedcecvkjrcbver)
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 19:06:05] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=89fb7726-de78-4876-9b9b-66f21b0f2c26, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=1ee249e3-7b06-43a1-91bb-584ef149f1c5, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e86b1a24-6c8d-4d8f-a1e2-a23691134525, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=133d2c78-6bd8-453b-82c6-5be3f45b5c18, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=1f1e6dc9-bdd1-4f06-9e12-0bca4d75254c, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 19:08:29] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f6faa4e2-7086-42c9-8fb0-865029f50a8c, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=2020728e-e777-494f-83bb-4d207beeb15b, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=98e55bfb-9d9a-4549-bb03-fa40092a707b, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e5718502-3273-4fc5-8690-4cef559fdff9, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=77c01116-f576-4655-bc49-d377a151ebc6, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 19:11:55] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=9a7a8280-6ca7-403f-a7b3-903abd6f8199, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=3795d7da-f317-4c1c-b53a-a5d9fbd8e347, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=9bdc4ec1-51ac-4631-9c60-7ddeb0f49160, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d7f13bfd-ed64-4705-81a1-5031c92cc809, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=caa9564b-43e2-4209-8abc-4b0157456402, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 19:12:07] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=9144618c-d132-4ee3-ab3b-71c344fc7fc9, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=19a61fa9-e084-4772-8bf8-0ff04c8cb9a8, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=7c20f2ab-b76f-4dd0-9374-36fb67a0185e, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=c62daed2-32e9-430f-9219-62ef81196f0a, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d11f5548-2802-4246-8a16-c94d11677b5a, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 19:13:43] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e1172c64-0741-4d09-9a40-7d18ac3f302b, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=2e2b0e8a-5512-430e-a223-ab2cc675e4bd, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=467dcfb9-6915-4390-b056-be43de7918e8, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e207c176-c793-4e3d-8d28-631705b7cfa8, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=e9312bde-ee43-485a-8bb1-914325fe0be5, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[11.05.2023 19:13:56] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=7d377c53-c8f4-467d-a409-2bbde35902a3, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=8906388b-1537-4b22-b0f3-443f9b17819f, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=9deab8d4-0c1a-43f1-95da-85c1d913e707, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=6a4bd596-2865-479e-bad4-b62e94ba52de, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=01134bbc-984b-4fc7-85d9-45c6cdf58544, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[11.05.2023 19:14:08] eddited by Admin: Max Watson Patient [ Name=, PatientId=00000000-0000-0000-0000-000000000000, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, State=Published
+ ] (changed Name to kedbkrj)
+_______________________________________________
+______________________VIEW_________________________
+[11.05.2023 19:14:16] viewed by Admin: Max Watson
+ Patient [ PatientId=7d377c53-c8f4-467d-a409-2bbde35902a3, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Published
+ ]  
+ Patient [ PatientId=8906388b-1537-4b22-b0f3-443f9b17819f, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Published
+ ]  
+ Patient [ PatientId=9deab8d4-0c1a-43f1-95da-85c1d913e707, Name=Draft, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Published
+ ]  
+ Patient [ PatientId=6a4bd596-2865-479e-bad4-b62e94ba52de, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Published
+ ]  
+ Patient [ PatientId=01134bbc-984b-4fc7-85d9-45c6cdf58544, Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, State=Published
+ ]  
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 0:27:04] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=7851df79-b466-4096-94f2-b838e2e01a9f, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=90309bfb-6f1b-48ca-9701-253306b74277, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=41cb0ff8-63e2-46ad-b258-4df276b4e744, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=34f8d9d1-12ef-4549-bca1-2dba3e4fd83a, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=8b9d153e-adc7-47ea-99ad-54fc4aa27b5b, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[12.05.2023 0:27:17] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to dmjncbksj)
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 0:28:02] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f9cc38e7-f4d9-450b-b761-f768edf33cce, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=3fdcf464-9701-47f6-9ac7-202c67c2cb87, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=3b7ec99e-bae9-4812-aed6-2d3fe4bcfd1f, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=056bd2b4-ec71-4dea-aceb-4d29c3503c72, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f597b826-de6b-44ee-b6aa-2174557f3ba8, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[12.05.2023 0:28:23] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to kjdebfkerjf)
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:01:37] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=5e61d234-e1c7-41b7-9546-f04332f742a2, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=3c917e42-b519-46cf-96fa-f947b6a14411, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f037d16b-edbd-40bc-8c06-dbec03b5258d, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=8fa396f3-d78a-4ddf-8c3b-ca5791a066ee, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=b99cdc60-4622-4587-9d9e-eb74bb806e04, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[12.05.2023 1:01:51] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to kdjscbksdjc)
+_______________________________________________
+______________________Publish_________________________
+[12.05.2023 1:02:06] published by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:02:42] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=7313d45c-fee4-4caf-931b-fc4c6dc4a07d, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=6126b03b-7d71-4cf5-bb81-d84e887a5fe2, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=b5e8a293-6c13-402e-9927-6e21203b17bc, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=85dc59e8-7bbe-483d-adb2-1ee4b8a05a5d, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=cb21ae21-ecd6-4af5-afdf-4b0dfe90144b, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[12.05.2023 1:02:59] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to kjsdnckjd)
+_______________________________________________
+______________________Publish_________________________
+[12.05.2023 1:03:08] published by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:11:17] uploaded by Admin: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=275c0808-0544-440d-923e-759fd0f2fd0e, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=00e4ea42-a8ff-45ac-97a4-9f7c54c872fa, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=9b3569d1-e15b-4d99-88ca-02d39b4071cb, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=463d0ab1-7f27-490f-ba44-c5b2464243e5, State=Published
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=0312ce4f-b99a-4191-a845-34b087a600d2, State=Published
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[12.05.2023 1:11:29] eddited by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Published
+ ] (changed Name to ksdjcndnk)
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:37:34] uploaded by Manager: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=5c12e1e0-e27d-46bc-a4d6-0162ffc28fd4, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=5b1768b6-6384-48f0-81cc-61a8df905f78, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=7612952b-fcbe-4ac9-a852-63639d34bdc6, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=ed8a5116-bfcb-46f8-beb9-d51ef0b4bf16, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=ada81e49-83a7-4552-9579-050275427f1e, State=Draft
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:38:09] uploaded by Manager: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f69948c9-9795-4f9f-891c-f034d96e600d, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=049872de-8b28-4008-a9ee-79273ba3c1f2, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=36e2950c-f34a-4a3c-bfd2-1d119e97b528, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=8f5a120d-dd67-46a3-ae01-f76c8ec6e1a6, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=60d53590-c805-473a-969d-f1cc6749f234, State=Draft
+ ] 
+_______________________________________________
+______________________To moderation_________________________
+[12.05.2023 1:39:24] to moderation by Manager: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:41:47] uploaded by Manager: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=419b17c4-a9e1-4acd-be9f-5c188ec95c73, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=c70684da-9957-46fc-b494-99cfc2fe996b, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=1db9a846-599f-4f98-a0a8-54287829a834, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f1dd1261-8b63-43d9-9937-e25207c97829, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=404d37db-0385-48ea-8435-1a0b48fb1bc2, State=Draft
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:41:58] uploaded by Manager: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=724ecf24-cffd-4b88-85f2-896262ce9e33, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=8351876a-6d58-490c-b60b-8302ba690614, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=1027c440-a4e4-4384-8b90-fc2e37d5cd53, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d6298611-5770-4ace-9398-0f15f07d9975, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=884048d9-3745-410c-9978-46bb6c734bc7, State=Draft
+ ] 
+_______________________________________________
+______________________EDIT_________________________
+[12.05.2023 1:42:11] eddited by Manager: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] (changed Name to kjbdks)
+_______________________________________________
+______________________To moderation_________________________
+[12.05.2023 1:42:45] to moderation by Manager: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] 
+_______________________________________________
+______________________To moderation_________________________
+[12.05.2023 1:43:03] to moderation by Manager: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:44:21] uploaded by Manager: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=c673e8ca-27e1-49db-8f2f-63a5e3942ff7, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d7184a32-f099-4e07-b8f2-2a7282eb6457, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=ffc73d10-cc2b-4551-abde-943ebecd8359, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=b8e23b1b-de32-4a9a-a750-91a3a7028115, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=8b82e498-ee1a-4bd9-b975-9824c34544a1, State=Draft
+ ] 
+_______________________________________________
+______________________UPLOAD_________________________
+[12.05.2023 1:44:34] uploaded by Manager: Max Watson
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=253ff478-51c8-4b7f-85a7-2efa51659552, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f616b4e2-5634-440e-8cba-f01d57021947, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d63532d7-ea96-4249-a52d-34f7a7c2b45b, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=854ef43a-ad5c-4222-ab1e-b4d1612dadea, State=Draft
+ ] 
+Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=f1a828ee-29bd-474f-9a3f-245a300783b8, State=Draft
+ ] 
+_______________________________________________
+______________________To moderation_________________________
+[12.05.2023 1:45:34] to moderation by Manager: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] 
+_______________________________________________
+______________________To moderation_________________________
+[12.05.2023 1:46:00] to moderation by Manager: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] 
+_______________________________________________
+______________________VIEW_________________________
+[12.05.2023 1:46:24] viewed by User: Max Watson
+_______________________________________________
+______________________Publish_________________________
+[12.05.2023 1:48:05] published by Admin: Max Watson Patient [ Name=, Date=01.01.0001, Time=0:00, Duration=0, DoctorName=, Department=, PatientId=00000000-0000-0000-0000-000000000000, State=Draft
+ ] 
+_______________________________________________
+______________________VIEW_________________________
+[12.05.2023 1:48:34] viewed by User: Max Watson
+ Patient [ Name=sdfsdf, Date=12.12.2022, Time=12:12, Duration=2324, DoctorName=wf, Department=fwe, PatientId=d63532d7-ea96-4249-a52d-34f7a7c2b45b, State=Published
+ ]  
+_______________________________________________
